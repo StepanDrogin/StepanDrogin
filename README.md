@@ -7,7 +7,7 @@ Later i am going to fill with content about me my github and linkedin profiles
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepandrogin&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepandrogin)
 
 
 <!---
