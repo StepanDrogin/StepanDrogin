@@ -5,7 +5,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://static.tildacdn.com/tild3034-3938-4430-a132-376365663164/logo_color.svg"/>]
+<img align="left" height="94px" width="94px" alt="KPN" src="https://static.tildacdn.com/tild3034-3938-4430-a132-376365663164/logo_color.svg"/>
 
 **Frontend Developer** \
 [**Think24**](https://study.think24.ru/) • Full-time \
