@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @StepanDrogin
-- 👀 I’m interested in Front-end web development
-- 📫 You can reach me on vk.com/stepan_drogin
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
