@@ -31,16 +31,6 @@
 
 5+ years of commercial development experience, with a strong frontend foundation and a current focus on fullstack software development: product UI, backend services, databases, authentication, deployment and CI/CD.
 
-### Featured Projects
-
-| Project | What it shows |
-| --- | --- |
-| [Pulse Chat](https://github.com/StepanDrogin/chat) | Realtime React + Firebase chat with Google auth, Firestore rules, GitHub Pages deployment and CI/CD. |
-| [Ali Clone](https://github.com/StepanDrogin/ali-clone) | Fullstack e-commerce experience with Nuxt 3, Vue, Pinia, Tailwind CSS, Supabase and Prisma. |
-| [Weather App](https://github.com/StepanDrogin/weather-app) | React application with API integration, responsive UI and production build flow. |
-| [Node.js PM2 Deploy](https://github.com/StepanDrogin/nodejs-pm2-deploy) | Deployment automation workflow for Node.js apps. |
-| [Docker & Compose](https://github.com/StepanDrogin/nodejs-docker-and-compose) | Dockerized Node.js application setup with Docker Compose. |
-
 ### Tech Stack
 
 <p>
